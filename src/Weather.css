@@ -31,12 +31,11 @@
     line-height: 19.2px;
    list-style: none;
 }
-.weather img {
-    height: 64px;
-    margin-right: 10px;
+.weather canvas {
+   margin-right: 5px;
+   margin-top: 5px;
     display: inline-block;
-    width: 64px;
-
+   
 }
 
 
