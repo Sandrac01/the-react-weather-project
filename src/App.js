@@ -14,7 +14,7 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Sandra Chinouya
+            Sandra Chinouya 
           </a>{" "}
           and is{""}
           <a
